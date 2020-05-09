@@ -170,4 +170,4 @@ ggplot(averages, aes(interval, steps)) + geom_line() + facet_grid(day ~ .) +
     xlab("5-minute interval") + ylab("Number of steps")
 ```
 
-![plot of chunk unnamed-chunk-14](figure/unnamed-chunk-14-1.png)
+![plot of chunk unnamed-chunk-14](https://github.com/archit2606/RepData_PeerAssessment1/blob/master/unnamed-chunk-14-1.png?raw=true)
