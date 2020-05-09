@@ -3,6 +3,10 @@ Reproducible Research:  Course Project 1
 
 ## Loading and preprocessing the data
 
+````{r}
+data <- read.csv("activity.csv", header = TRUE)
+head(data)
+````
 
 
 ## What is mean total number of steps taken per day?
